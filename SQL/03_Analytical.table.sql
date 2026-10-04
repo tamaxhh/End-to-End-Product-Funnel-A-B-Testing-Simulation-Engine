@@ -63,7 +63,7 @@ GROUP BY
 
 SELECT 
     user_session,
-    user_id,
+    user_id,  
     session_start,
     session_duration_seconds,
     viewed,
